@@ -29,4 +29,4 @@ This project is a Tkinter-based GUI tool for performing various penetration test
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/Oxcanga/ShersFlow.git
-   cd penetration-testing-tool
+   cd shersflow
